@@ -34,3 +34,8 @@ Recursively show from wasm files from the current directory:
 $ wasmer-exports -r .
 ```
 
+## Related Issues on the Near Ecossystem
+
+- [near-cli#849](https://github.com/near/near-cli/issues/849)
+- [near-cli-rs#70](https://github.com/near/near-cli-rs/issues/70)
+- [near-explorer#757](https://github.com/near/near-explorer/issues/757)
